@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "crear un TODO app",
+        "status": "IN PROGRESS" 
+    },
+    {
+        "id": 2,
+        "name": "investigar que es kubernetes",
+        "status": "TODO" 
+    },
+    {
+        "id": 3,
+        "name": "arreglar mi computador",
+        "status": "DONE" 
+    }
+]
